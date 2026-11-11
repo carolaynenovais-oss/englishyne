@@ -1,0 +1,9 @@
+{
+  "name": "englishyne",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Englishyne: app para aprender inglês do A1 ao C2",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
